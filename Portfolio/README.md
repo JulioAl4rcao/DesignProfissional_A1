@@ -1,4 +1,4 @@
-<h1 align="center">🗂️ Portfólio Profissional — Júlio César Alarcão</h1>
+<h1 align="center">🗂️ Portfólio — Júlio César Alarcão</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-ADS_UDF-blue?style=for-the-badge">
