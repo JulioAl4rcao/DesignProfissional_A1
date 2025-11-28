@@ -1,5 +1,4 @@
 # Design-Profissional-A1
-# DesignProfissional_A1
 
 Este repositório contém os entregáveis e artefatos desenvolvidos para a *Atividade 1 (A1)* da disciplina de *Design Profissional*.
 
